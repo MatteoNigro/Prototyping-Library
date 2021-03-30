@@ -1,0 +1,12 @@
+{
+  "name": "com.matteonigro.prototyping",
+  "version": "1.0.0",
+  "displayName": "Prototyping Library",
+  "description": "An ever-expanding library full of Unity assets and components that allows you to prototype quickly and efficiently.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Matteo Nigro",
+    "email": "matteo95nigro@gmail.com"
+  },
+  "type": "library"
+}
